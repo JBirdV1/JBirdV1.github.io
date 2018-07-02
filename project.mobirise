@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "JBirdV1.co.uk",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 25,
@@ -33,7 +33,13 @@
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "siteFonts": []
+    "siteFonts": [],
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
